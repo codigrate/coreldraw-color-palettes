@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<palette name="Codigrate Rio de Janeiro" guid="55441bbc-c9f1-2a1e-2855-814c2bac0b03">
+  <colors>
+    <page>
+      <color cs="RGB" tints="0.968627,0.980392,0.964706" name="Morning Breeze"/>
+      <color cs="RGB" tints="0.815686,0.92549,0.937255" name="Lagoon Mist"/>
+      <color cs="RGB" tints="0.85098,0.937255,0.823529" name="Palm Shade"/>
+      <color cs="RGB" tints="0.721569,0.898039,0.678431" name="Garden Path"/>
+      <color cs="RGB" tints="0.521569,0.717647,0.470588" name="Jungle Canopy"/>
+      <color cs="RGB" tints="0.07451,0.631373,0.4" name="Emerald Palm"/>
+      <color cs="RGB" tints="0.007843,0.505882,0.203922" name="Deep Jungle"/>
+      <color cs="RGB" tints="0.176471,0.482353,0.094118" name="Leaf Shadow"/>
+      <color cs="RGB" tints="0.278431,0.654902,0.192157" name="Vivid Leaf"/>
+      <color cs="RGB" tints="0.101961,0.317647,0.039216" name="Forest Ink"/>
+      <color cs="RGB" tints="0.215686,0.356863,0.180392" name="Rainforest"/>
+      <color cs="RGB" tints="0.254902,0.686275,0.729412" name="Tropical Water"/>
+      <color cs="RGB" tints="0.039216,0.501961,0.701961" name="Atlantic Blue"/>
+      <color cs="RGB" tints="0.062745,0.396078,0.721569" name="Bay Blue"/>
+      <color cs="RGB" tints="0.639216,0.52549,0.039216" name="Golden Samba"/>
+      <color cs="RGB" tints="0.92549,0.854902,0.380392" name="Ipanema Sun"/>
+      <color cs="RGB" tints="0.133333,0.529412,0.835294" name="Guanabara Blue"/>
+      <color cs="RGB" tints="0.07451,0.490196,0.815686" name="Deep Guanabara"/>
+      <color cs="RGB" tints="0.188235,0.635294,0.368627" name="Carnival Green"/>
+      <color cs="RGB" tints="0.129412,0.615686,0.32549" name="Deep Carnival"/>
+      <color cs="RGB" tints="0.901961,0.768627,0.101961" name="Carnival Gold"/>
+      <color cs="RGB" tints="0.882353,0.745098,0.039216" name="Deep Gold"/>
+      <color cs="RGB" tints="0.819608,0.337255,0.278431" name="Sunset Red"/>
+      <color cs="RGB" tints="0.858824,0.235294,0.160784" name="Deep Sunset"/>
+    </page>
+  </colors>
+  <colorspaces/>
+  <localization/>
+</palette>

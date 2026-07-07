@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<palette name="Codigrate Miami" guid="1980698b-d069-b365-83ad-ab1f1c670213">
+  <colors>
+    <page>
+      <color cs="RGB" tints="0.2,0.070588,0.113725" name="Midnight Vice"/>
+      <color cs="RGB" tints="0.32549,0.12549,0.2" name="Plum Night"/>
+      <color cs="RGB" tints="0.447059,0.180392,0.278431" name="Berry Crush"/>
+      <color cs="RGB" tints="0.6,0.133333,0.301961" name="Neon Raspberry"/>
+      <color cs="RGB" tints="1,0.372549,0.635294" name="Miami Pink"/>
+      <color cs="RGB" tints="0.996078,0.470588,0.54902" name="Flamingo"/>
+      <color cs="RGB" tints="0.996078,0.501961,0.470588" name="Sunset Coral"/>
+      <color cs="RGB" tints="0.94902,0.643137,0.627451" name="Coral Haze"/>
+      <color cs="RGB" tints="0.8,0.635294,0.713725" name="Dusty Orchid"/>
+      <color cs="RGB" tints="0.835294,0.776471,0.807843" name="Pearl Pink"/>
+      <color cs="RGB" tints="0.572549,0.709804,0.909804" name="Art Deco Blue"/>
+      <color cs="RGB" tints="0.019608,0.564706,0.52549" name="Tropical Teal"/>
+      <color cs="RGB" tints="0,0.819608,0.756863" name="Electric Aqua"/>
+      <color cs="RGB" tints="0.509804,0.835294,0.623529" name="Palm Green"/>
+      <color cs="RGB" tints="0.972549,0.823529,0.45098" name="Golden Sand"/>
+      <color cs="RGB" tints="0.011765,0.32549,0.301961" name="Deep Lagoon"/>
+      <color cs="RGB" tints="0.32549,0.647059,0.862745" name="Bay Blue"/>
+      <color cs="RGB" tints="0.211765,0.623529,0.898039" name="Deep Bay"/>
+      <color cs="RGB" tints="0.423529,0.788235,0.321569" name="Lime Twist"/>
+      <color cs="RGB" tints="0.341176,0.823529,0.207843" name="Deep Lime"/>
+      <color cs="RGB" tints="0.901961,0.698039,0.313725" name="Amber Neon"/>
+      <color cs="RGB" tints="0.941176,0.682353,0.196078" name="Deep Amber"/>
+      <color cs="RGB" tints="0.92549,0.356863,0.329412" name="Hot Coral"/>
+      <color cs="RGB" tints="0.964706,0.247059,0.211765" name="Deep Coral"/>
+    </page>
+  </colors>
+  <colorspaces/>
+  <localization/>
+</palette>

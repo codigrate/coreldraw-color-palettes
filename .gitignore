@@ -1,0 +1,12 @@
+.DS_Store
+
+# Premium palettes — .xml files are not distributed (icons stay)
+cities/madrid-theme/*.xml
+cities/prague-theme/*.xml
+cities/sydney-theme/*.xml
+cities/vienna-theme/*.xml
+nature/etna-theme/*.xml
+nature/ocean-theme/*.xml
+nature/reynisfjara-theme/*.xml
+nature/salda-theme/*.xml
+nature/spring-theme/*.xml

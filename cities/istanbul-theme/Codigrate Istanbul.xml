@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<palette name="Codigrate Istanbul" guid="f8c28c9c-ea92-db78-fd50-3cc06885e504">
+  <colors>
+    <page>
+      <color cs="RGB" tints="0.980392,0.992157,0.992157" name="Marble White"/>
+      <color cs="RGB" tints="0.858824,0.941176,0.945098" name="Bosphorus Mist"/>
+      <color cs="RGB" tints="0.639216,0.866667,0.898039" name="Sea Glass"/>
+      <color cs="RGB" tints="0.568627,0.819608,0.854902" name="Turquoise Tile"/>
+      <color cs="RGB" tints="0.070588,0.67451,0.756863" name="Iznik Turquoise"/>
+      <color cs="RGB" tints="0.066667,0.564706,0.631373" name="Bosphorus Teal"/>
+      <color cs="RGB" tints="0.031373,0.494118,0.556863" name="Deep Bosphorus"/>
+      <color cs="RGB" tints="0.031373,0.529412,0.709804" name="Marmara Blue"/>
+      <color cs="RGB" tints="0.031373,0.227451,0.254902" name="Midnight Strait"/>
+      <color cs="RGB" tints="0.611765,0.431373,0.486275" name="Ottoman Rose"/>
+      <color cs="RGB" tints="0.756863,0.411765,0.47451" name="Tulip Pink"/>
+      <color cs="RGB" tints="0.721569,0.317647,0.301961" name="Rooftop Red"/>
+      <color cs="RGB" tints="0.721569,0.47451,0.345098" name="Copper Bazaar"/>
+      <color cs="RGB" tints="0.752941,0.686275,0.262745" name="Golden Horn"/>
+      <color cs="RGB" tints="0.937255,0.917647,0.815686" name="Old Parchment"/>
+      <color cs="RGB" tints="0.835294,0.772549,0.882353" name="Lilac Haze"/>
+      <color cs="RGB" tints="0.223529,0.498039,0.717647" name="Ferry Blue"/>
+      <color cs="RGB" tints="0.156863,0.462745,0.705882" name="Deep Ferry"/>
+      <color cs="RGB" tints="0.188235,0.635294,0.368627" name="Cypress Green"/>
+      <color cs="RGB" tints="0.129412,0.615686,0.32549" name="Deep Cypress"/>
+      <color cs="RGB" tints="0.741176,0.627451,0.317647" name="Brass Lamp"/>
+      <color cs="RGB" tints="0.764706,0.615686,0.215686" name="Deep Brass"/>
+      <color cs="RGB" tints="0.756863,0.360784,0.32549" name="Kilim Red"/>
+      <color cs="RGB" tints="0.792157,0.258824,0.211765" name="Deep Kilim"/>
+    </page>
+  </colors>
+  <colorspaces/>
+  <localization/>
+</palette>

@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<palette name="Codigrate Autumn" guid="821ef83e-115e-1884-0421-e8579a9e50b4">
+  <colors>
+    <page>
+      <color cs="RGB" tints="0.988235,0.984314,0.980392" name="Parchment"/>
+      <color cs="RGB" tints="0.972549,0.956863,0.945098" name="Pale Birch"/>
+      <color cs="RGB" tints="0.937255,0.901961,0.878431" name="Sandstone"/>
+      <color cs="RGB" tints="0.956863,0.827451,0.741176" name="Apricot Haze"/>
+      <color cs="RGB" tints="0.898039,0.956863,0.803922" name="Late Meadow"/>
+      <color cs="RGB" tints="0.662745,0.780392,0.47451" name="Olive Grove"/>
+      <color cs="RGB" tints="0.658824,0.498039,0.145098" name="Harvest Gold"/>
+      <color cs="RGB" tints="0.870588,0.647059,0.113725" name="Golden Leaf"/>
+      <color cs="RGB" tints="0.690196,0.388235,0.227451" name="Copper Leaf"/>
+      <color cs="RGB" tints="0.745098,0.333333,0.243137" name="Maple Rust"/>
+      <color cs="RGB" tints="0.466667,0.223529,0.094118" name="Acorn Brown"/>
+      <color cs="RGB" tints="0.509804,0.380392,0.298039" name="Mocha"/>
+      <color cs="RGB" tints="0.180392,0.105882,0.058824" name="Dark Walnut"/>
+      <color cs="RGB" tints="0.105882,0.34902,0.117647" name="Pine Shadow"/>
+      <color cs="RGB" tints="0.054902,0.505882,0.07451" name="Evergreen"/>
+      <color cs="RGB" tints="0,0.431373,0.513725" name="Mallard Teal"/>
+      <color cs="RGB" tints="0.223529,0.498039,0.717647" name="October Sky"/>
+      <color cs="RGB" tints="0.156863,0.462745,0.705882" name="Deep October"/>
+      <color cs="RGB" tints="0.188235,0.635294,0.368627" name="Fern Green"/>
+      <color cs="RGB" tints="0.129412,0.615686,0.32549" name="Deep Fern"/>
+      <color cs="RGB" tints="0.831373,0.603922,0.164706" name="Amber Harvest"/>
+      <color cs="RGB" tints="0.815686,0.572549,0.101961" name="Deep Harvest"/>
+      <color cs="RGB" tints="0.784314,0.313725,0.290196" name="Cranberry"/>
+      <color cs="RGB" tints="0.815686,0.207843,0.176471" name="Deep Cranberry"/>
+    </page>
+  </colors>
+  <colorspaces/>
+  <localization/>
+</palette>

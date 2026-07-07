@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<palette name="Codigrate Sequoia" guid="893e8132-daa0-261c-e5a6-b87317df2d75">
+  <colors>
+    <page>
+      <color cs="RGB" tints="0.054902,0.054902,0.054902" name="Deep Grove"/>
+      <color cs="RGB" tints="0.12549,0.137255,0.109804" name="Forest Floor"/>
+      <color cs="RGB" tints="0.196078,0.219608,0.172549" name="Evergreen Shade"/>
+      <color cs="RGB" tints="0.25098,0.317647,0.2" name="Fern Shade"/>
+      <color cs="RGB" tints="0.423529,0.384314,0.352941" name="Driftwood"/>
+      <color cs="RGB" tints="0.596078,0.411765,0.411765" name="Faded Rosewood"/>
+      <color cs="RGB" tints="0.658824,0.384314,0.333333" name="Redwood Clay"/>
+      <color cs="RGB" tints="0.65098,0.482353,0.356863" name="Warm Timber"/>
+      <color cs="RGB" tints="0.65098,0.560784,0.34902" name="Golden Bark"/>
+      <color cs="RGB" tints="0.470588,0.545098,0.25098" name="Olive Canopy"/>
+      <color cs="RGB" tints="0.431373,0.623529,0.337255" name="Meadow Green"/>
+      <color cs="RGB" tints="0.211765,0.592157,0.447059" name="Jade Moss"/>
+      <color cs="RGB" tints="0.517647,0.568627,0.517647" name="Lichen Grey"/>
+      <color cs="RGB" tints="0.729412,0.745098,0.729412" name="Morning Light"/>
+      <color cs="RGB" tints="0.427451,0.254902,0.188235" name="Cedar Heart"/>
+      <color cs="RGB" tints="0.45098,0.65098,0.129412" name="Fresh Growth"/>
+      <color cs="RGB" tints="0.290196,0.576471,0.752941" name="Creek Blue"/>
+      <color cs="RGB" tints="0.196078,0.54902,0.768627" name="Deep Creek"/>
+      <color cs="RGB" tints="0.360784,0.701961,0.415686" name="Sapling Green"/>
+      <color cs="RGB" tints="0.258824,0.72549,0.333333" name="Deep Sapling"/>
+      <color cs="RGB" tints="0.764706,0.603922,0.270588" name="Sap Gold"/>
+      <color cs="RGB" tints="0.776471,0.580392,0.180392" name="Deep Sap"/>
+      <color cs="RGB" tints="0.760784,0.337255,0.294118" name="Wildfire Red"/>
+      <color cs="RGB" tints="0.780392,0.247059,0.192157" name="Deep Wildfire"/>
+    </page>
+  </colors>
+  <colorspaces/>
+  <localization/>
+</palette>

@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<palette name="Codigrate Roraima" guid="824804b5-62f1-a9af-2fce-586ff0b2a921">
+  <colors>
+    <page>
+      <color cs="RGB" tints="0.090196,0.078431,0.082353" name="Cave Floor"/>
+      <color cs="RGB" tints="0.117647,0.101961,0.105882" name="Tepui Night"/>
+      <color cs="RGB" tints="0.196078,0.14902,0.156863" name="Canyon Shadow"/>
+      <color cs="RGB" tints="0.321569,0.235294,0.176471" name="Earthen Ledge"/>
+      <color cs="RGB" tints="0.345098,0.184314,0.160784" name="Terracotta Shade"/>
+      <color cs="RGB" tints="0.435294,0.305882,0.207843" name="Ochre Cliff"/>
+      <color cs="RGB" tints="0.678431,0.541176,0.541176" name="Misty Rose"/>
+      <color cs="RGB" tints="0.807843,0.756863,0.756863" name="Cloud Veil"/>
+      <color cs="RGB" tints="0.839216,0.584314,0.407843" name="Amber Sand"/>
+      <color cs="RGB" tints="0.819608,0.454902,0.345098" name="Coral Canyon"/>
+      <color cs="RGB" tints="0.8,0.396078,0.305882" name="Sunset Mesa"/>
+      <color cs="RGB" tints="0.929412,0.545098,0.545098" name="Pink Quartz"/>
+      <color cs="RGB" tints="0.866667,0.745098,0.427451" name="Dry Grass"/>
+      <color cs="RGB" tints="0.819608,0.729412,0.27451" name="Savanna Gold"/>
+      <color cs="RGB" tints="0.494118,0.415686,0.639216" name="Twilight Violet"/>
+      <color cs="RGB" tints="0.560784,0.470588,0.717647" name="Orchid Mist"/>
+      <color cs="RGB" tints="0.321569,0.572549,0.780392" name="River Blue"/>
+      <color cs="RGB" tints="0.207843,0.541176,0.815686" name="Deep River"/>
+      <color cs="RGB" tints="0.298039,0.760784,0.482353" name="Valley Green"/>
+      <color cs="RGB" tints="0.196078,0.784314,0.431373" name="Deep Valley"/>
+      <color cs="RGB" tints="0.803922,0.65098,0.266667" name="Sun Ochre"/>
+      <color cs="RGB" tints="0.835294,0.643137,0.152941" name="Deep Ochre"/>
+      <color cs="RGB" tints="0.807843,0.290196,0.266667" name="Jasper Red"/>
+      <color cs="RGB" tints="0.843137,0.180392,0.152941" name="Deep Jasper"/>
+    </page>
+  </colors>
+  <colorspaces/>
+  <localization/>
+</palette>
