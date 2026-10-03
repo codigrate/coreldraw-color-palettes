@@ -7,6 +7,8 @@ nature/ocean-theme/*.xml
 nature/reynisfjara-theme/*.xml
 nature/salda-theme/*.xml
 nature/spring-theme/*.xml
+cities/dublin-theme/*.xml
+cities/london-theme/*.xml
 cities/madrid-theme/*.xml
 cities/prague-theme/*.xml
 cities/sydney-theme/*.xml
